@@ -1,0 +1,9 @@
+ Lista de comandos básicos (git bash)
+
+cd (subir ou descer nível)
+ls (listar dir)
+mkdir (criar diretório)
+rm -rf (deletar diretório)
+git init
+git add
+git commit
